@@ -2,6 +2,7 @@
 # By Sean Carver
 # Copyright 2017
 # Provided Open Source, under GPL-version 3.0 License
+# Daniel's Version
 
 #### EXAMPLE MODEL FUNCTIONS ####
 
